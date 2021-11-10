@@ -1,8 +1,7 @@
 ### Olá, bem-vindo ao meu perfil!
 
 - 🌱 Estou aprendendo Python🐍
-- 📫 Contate-me no e-mail: vinicius_oc09@hotmail.com
-- 😄 Pronouns: ele/dele
+- 🎮 Apaixonado por games
 
 <div align="center">
   <a href="https://github.com/vinii7">
