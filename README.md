@@ -12,4 +12,4 @@
  [![](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinii7x/)
  [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/vinii7x) [![](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinicius_oc09@hotmail.com)
 [![](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-oliveira-44a73a223/)
-![Snake animation](https://github.com/vinii7/vinii7/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/vinioliveira7/vinioliveira7/blob/output/github-contribution-grid-snake.svg)
