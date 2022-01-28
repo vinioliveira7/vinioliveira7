@@ -3,8 +3,8 @@
 - 🌱 Estou aprendendo Python🐍
 - 🎮 Apaixonado por games
 
- [![](https://github-readme-stats.vercel.app/api?username=vinii7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/vinii7)
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinii7&layout=compact&langs_count=7&theme=dracula)
+ [![](https://github-readme-stats.vercel.app/api?username=vinioliveira7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/vinii7)
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinioliveira7&layout=compact&langs_count=7&theme=dracula)
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="drawing" width="30"/>
   
